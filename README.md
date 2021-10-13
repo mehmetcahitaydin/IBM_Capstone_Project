@@ -3,7 +3,8 @@
 
 # IBM Capstone Project <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-##[image](https://user-images.githubusercontent.com/37044565/137207083-0f0e2968-3ea5-4190-960c-d26b3fbab77d.png)
+##Analyze of Technology Trends![image](https://user-images.githubusercontent.com/37044565/137207180-5885490e-fbd9-48b9-b46a-17dd01778f3d.png)
+
 
 ## About this Project
 In this course you will apply various Data Analytics skills and techniques that you have learned as part of the previous courses in the IBM Data Analyst Professional Certificate. You will assume the role of an Associate Data Analyst who has recently joined the organization and be presented with a business challenge that requires data analysis to be performed on real-world datasets. 
