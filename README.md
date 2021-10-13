@@ -3,7 +3,7 @@
 
 # IBM Capstone Project <img src="https://raw.githubusercontent.com/roshangrewal/IBM-Data-Science-Professional-Certification/master/IBM-Banner.png" align="right" width="120" />
 
-##Analyze of Technology Trends![image](https://user-images.githubusercontent.com/37044565/137207180-5885490e-fbd9-48b9-b46a-17dd01778f3d.png)
+![image](https://user-images.githubusercontent.com/37044565/137207180-5885490e-fbd9-48b9-b46a-17dd01778f3d.png)
 
 
 ## About this Project
